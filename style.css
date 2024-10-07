@@ -51,6 +51,15 @@ h1, h2 {
     color: #004aad;
 }
 
+.business-list li h3 a {
+    text-decoration: none;
+    color: #004aad;
+}
+
+.business-list li h3 a:hover {
+    text-decoration: underline;
+}
+
 .business-list li p {
     margin: 5px 0;
 }
